@@ -51,11 +51,4 @@ Feel free to contact me by email:
 
 ---
 
-## 🔗 Live Demo
-
-You can view the live website here (once published):  
-➡️ `https://<your-github-username>.github.io/<repository-name>/`
-
----
-
 © 2025 Designer Nouf. All rights reserved.
