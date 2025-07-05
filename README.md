@@ -53,4 +53,4 @@ Feel free to contact me by email:
 
 © 2025 Designer Nouf. All rights reserved.
 
-<img width="554" height="294" alt="Image" src="https://github.com/user-attachments/assets/77d01a25-7779-4048-9e9d-8fc6ff95452d" />
+<img width="1920" height="1020" alt="Image" src="https://github.com/user-attachments/assets/f6b6878f-eca7-4b7a-a57d-ef50b104db2f" />
